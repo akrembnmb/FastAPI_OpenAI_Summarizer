@@ -1,0 +1,1 @@
+This project utilizes FastAPI to create an API for text summarization using OpenAI's GPT-3 model. It allows users to summarize input text with customizable parameters such as maximum length and input type (character or word).
